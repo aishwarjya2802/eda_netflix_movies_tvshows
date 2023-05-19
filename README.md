@@ -7,10 +7,10 @@ Netflix is one of the most popular media and video streaming platforms. They hav
 
 # Problem Statment
 
-	      -Understanding what content is available in different countries
-        -Identifying similar content by matching text-based features
-        -Network analysis of Actors / Directors and find interesting insights
-        -Does Netflix has more focus on TV Shows than movies in recent years.
+  - Understanding what content is available in different countries
+  - Identifying similar content by matching text-based features
+  - Network analysis of Actors / Directors and find interesting insights
+  - Does Netflix has more focus on TV Shows than movies in recent years.
 
 
 
@@ -36,16 +36,16 @@ Integrating this dataset with other external datasets such as IMDB ratings, rott
 
 # Result
 
--Netflix has released most number of content around 2020 ever in the history of the Netflix.
--Most of the content on the Netflix have rating TV-MA and TV-14.
--Netflix produces more number of Movies as compared to TV Shows.
--United States produces most number of content on the Netflix, followed by India.
--United States produces most number of Movies on the Netflix, followed by India.
--United States produces most number of TV Shows on the Netflix, followed by United Kingdom.
--The Category of the most of the content produces by Netflix are Dramas, International Movies and Documentaries.
--Rajiv Chilaka has directed most number of content on the netflix.
--David Attenborough has cast most number of shows on the Netflix.
--Most of the shows on the Netflix has 1 season duration.
+- Netflix has released most number of content around 2020 ever in the history of the Netflix.
+- Most of the content on the Netflix have rating TV-MA and TV-14.
+- Netflix produces more number of Movies as compared to TV Shows.
+- United States produces most number of content on the Netflix, followed by India.
+- United States produces most number of Movies on the Netflix, followed by India.
+- United States produces most number of TV Shows on the Netflix, followed by United Kingdom.
+- The Category of the most of the content produces by Netflix are Dramas, International Movies and Documentaries.
+- Rajiv Chilaka has directed most number of content on the netflix.
+- David Attenborough has cast most number of shows on the Netflix.
+- Most of the shows on the Netflix has 1 season duration.
 
 # Data Source
 [Kaggle](https://www.kaggle.com/datasets/shivamb/netflix-shows/download?datasetVersionNumber=5)
